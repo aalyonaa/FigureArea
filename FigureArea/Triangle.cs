@@ -30,9 +30,9 @@
         {
             if (firstSide + secondSide > thirdSide && firstSide + thirdSide > secondSide && secondSide + thirdSide > firstSide)
             {
-                _firstSide = firstSide;
-                _secondSide = secondSide;
-                _thirdSide = thirdSide;
+                FirstSide = firstSide;
+                SecondSide = secondSide;
+                ThirdSide = thirdSide;
             }
             else
             {
